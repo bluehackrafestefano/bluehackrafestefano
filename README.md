@@ -24,5 +24,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluehackrafestefano&langs_count=12&hide=javascript,html,CSS,Less&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
