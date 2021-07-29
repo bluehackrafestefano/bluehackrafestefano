@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Django project.
-- 🌱 I’m currently learning Go.
+- 🔭 I’m currently working with an excellent DevOps team in Well.
+- 🌱 I’m currently learning Blockchain.
 - 👯 I’m looking to collaborate on IT for everyone.
 - 🤔 I’m looking for help with Terraform tests.
 - 💬 Ask me about Git.
