@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with an excellent DevOps team in Well.
+- 🔭 I’m currently working with an excellent DevOps team in Well.co.
 - 🌱 I’m currently learning Blockchain.
-- 👯 I’m looking to collaborate on IT for everyone.
+- 👯 I’m looking to collaborate on IT with everyone.
 - 🤔 I’m looking for help with Terraform tests.
 - 💬 Ask me about Git.
 - 📫 How to reach me: stefanorafe@gmail.com
