@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with an excellent DevOps team in Well.co.
+- 🔭 I’m currently seeking work & life ballance.
 - 🌱 I’m currently learning Blockchain.
 - 👯 I’m looking to collaborate on IT with everyone.
 - 🤔 I’m looking for help with Terraform tests.
