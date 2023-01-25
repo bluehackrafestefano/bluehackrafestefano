@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently seeking work & life ballance.
-- 🌱 I’m currently learning Blockchain.
+- 🌱 I’m currently learning Terratest.
 - 👯 I’m looking to collaborate on IT with everyone.
-- 🤔 I’m looking for help with Terraform tests.
+- 🤔 I’m looking for help with finding my next position.
 - 💬 Ask me about Git.
 - 📫 How to reach me: stefanorafe@gmail.com
 - 😄 Pronouns: We only...
-- ⚡ Fun fact:
+- ⚡ Fun fact: 
 <br>
 
 ![Fun&Laugh](https://thecodinglove.com/content/011/bXsruwt.jpg)
