@@ -7,8 +7,7 @@
 - 💬 Ask me about Git.
 - 📫 How to reach me: stefanorafe@gmail.com
 - 😄 Pronouns: We only...
-- ⚡ Fun fact: 
-<br>
+- ⚡ Fun fact:
 
 ![Fun&Laugh](https://thecodinglove.com/content/011/bXsruwt.jpg)
 
